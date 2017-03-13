@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 13th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Bradley Hurlston)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I am given specific java properites and methods to create a photo gallery that can navigate through images.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bradhurlston.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The photo order variable allows the user to track the order of photos as they move through the gallery.
+2. DOM methods are used to add to the DOM tree which connect files, divs, figures, etc.
+3. A document fragment is a set of connected nodes that aren't part of a document.
